@@ -2,7 +2,7 @@
 🏫 Projeto Final - Tecnologia para Iniciantes - Turma 2 - Escola da Nuvem
 👥 Participantes:
 João Vitor da Silva Moreno
-Antonia Neide Magalhães
+Antonia Neide Magalhães de Souza
 Luan Freitas Coelho Vieira
 
 ---
