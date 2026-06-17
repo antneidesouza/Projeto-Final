@@ -1,8 +1,8 @@
- Sistema de Biblioteca Comunitária EDN
+📚 Sistema de Biblioteca Comunitária EDN
 🏫 Projeto Final - Tecnologia para Iniciantes - Turma 2 - Escola da Nuvem
 👥 Participantes:
 João Vitor da Silva Moreno
-Antonia Neide Magalhães de Souza
+Antonia Neide Magalhães
 Luan Freitas Coelho Vieira
 
 ---
@@ -36,8 +36,6 @@ Desenvolver um sistema interativo via terminal para gerenciar o acervo e os empr
 
 💬 Feedbacks claros para o usuário em cada ação.
 
----
 
-🚀 Como usar
-Clone ou baixe este repositório.
-Execute o script Python no terminal:
+
+
